@@ -1,0 +1,60 @@
+/* here is the css for the calculator */
+
+.calc{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+/*add functionality to change the color of the calculator and text*/
+input{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #A6F0C6;
+    background-color: #03001C;
+    border: 2px solid #A6F0C6;
+    padding:35px;
+    margin: 0px;
+    border-radius: 20px;
+
+}
+
+/* here is the css for the clock */
+
+.clock {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #B6EADA;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    
+}
+
+/* style for the timer */
+
+.timer {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #B6EADA;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    
+}
+/* sizing for the notes text box */
+#myInput{
+    height: 200px;
+}
+
+/* css for the to do list */
+#todo{
+overflow-y: scroll;
+height: 300px;
+}

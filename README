@@ -1,0 +1,27 @@
+This is a productivity app that will allow the user to make a "homepage" that will allow them to stay productive!
+
+Front and center there is a clock that will help you to keep track of time. 
+
+When you click on the "home" button this will clear the top area so that there wont be distractions there. 
+
+There is a weather api that allows you to check the weather without having to pull out another device or go to a different site. 
+The current API that is loaded is "Visual Crossing Weather". You will need to add your own key. You could also replace this with another weather API if you wish. 
+
+A calculator is built in which means you wont have to leave this app for any simple math you need to do. 
+
+You can easily take notes and there is a function built in to copy them or clear as needed. This means that you can jot down any quick notes and when you are done you can transfer them to a different app as needed for more long term storage. 
+
+It has a built in timer so that you can stay productive and make sure you are on time. 
+It will give you an alert when the time is up so that you can take a break/get back to work!
+
+The "tunes" tab allows you to use a web embed to add in a playlist and listen to any music while you work. When you click on another tab the video will dissapear from view so that you can stay focused. 
+No more scrolling through pages of youtube while you should be working on something!
+You will need to add the link to your embed to a video or playlist. 
+This can be done in the settings tab  
+
+There is a to-do list so you can set your goals for each section and check them off as you accomplish them!
+
+The settings tab allows you to input a youtube embed and lets you add more links to the bottom of the screen. 
+
+At the bottom there is a space for links that will allow you to add the sites that you need, but stay away from the sites you dont!
+
